@@ -61,7 +61,7 @@ color:rgb(44, 58, 212);
 background-color: rgb(44, 58, 212);
 }
 footer {
-    background-color: rgb(156, 21, 21);
+    background-color: rgb(25, 0, 78);
     text-align: center;
     padding: 20px;
 }
@@ -83,7 +83,7 @@ footer p {
 }
 
 .experiencias{
-    background-color: rgb(25, 0, 78);
+    background-color: rgb(156, 21, 21);
     color: rgb(255, 255, 255);
 }
 .experiencias p{
