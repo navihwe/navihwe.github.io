@@ -74,12 +74,12 @@ footer p {
 }
 .sobre{
     background-color: rgb(156, 21, 21);
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     
 }
 
 .sobre p{
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 
 .experiencias{
