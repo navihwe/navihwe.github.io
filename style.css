@@ -79,15 +79,15 @@ footer p {
 }
 
 .sobre p{
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 .experiencias{
     background-color: rgb(156, 21, 21);
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 .experiencias p{
-    color: white;
+    color: rgb(0, 0, 0);
 }
 /* --- Media Queries: Estilos para telas menores (smartphones e tablets) --- */
 /* Estes estilos só serão aplicados quando a largura da tela for no máximo 768 pixels */
