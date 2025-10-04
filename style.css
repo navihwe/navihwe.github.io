@@ -9,7 +9,7 @@ body{
 }
 .foto {
     flex: 1;
-    background-color:rgb(26, 9, 69);
+    background-color:rgb(220, 10, 206);
     display: flex;
     align-items: center;
     justify-content: center;
