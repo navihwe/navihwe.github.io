@@ -78,7 +78,7 @@ footer p {
     
 }
 
-sobre p{
+.sobre p{
     color: white;
 }
 
@@ -86,7 +86,7 @@ sobre p{
     background-color: rgb(156, 21, 21);
     color: rgb(0, 0, 0);
 }
-experiencias p{
+.experiencias p{
     color: white;
 }
 /* --- Media Queries: Estilos para telas menores (smartphones e tablets) --- */
