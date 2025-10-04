@@ -74,9 +74,9 @@ footer p {
 }
 .sobre{
     background-color: rgb(156, 21, 21);
-    color:black
+    color:hjrgb(255, 255, 255)
 }
 .experiencias{
     background-color: rgb(156, 21, 21);
-    color: black;
+    color: rgb(255, 255, 255);
 }
