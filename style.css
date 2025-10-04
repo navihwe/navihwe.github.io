@@ -84,5 +84,8 @@ sobre p{
 
 .experiencias{
     background-color: rgb(156, 21, 21);
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+experiencias p{
+    color: white;
 }
