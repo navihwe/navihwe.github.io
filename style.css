@@ -108,7 +108,7 @@ footer p {
 
   /* Muda a cor de fundo da seção de início em telas menores (do cinza para #F4DECB) */
   .inicio{
-      background-color: #F4DECB;
+      background-color: rgb(156, 21, 21);
   }
 
   /* Reduz o espaçamento interno destas seções em telas menores */
