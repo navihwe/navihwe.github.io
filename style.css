@@ -1,9 +1,41 @@
 body{
     margin:0;
     font-family: Arial, sans-serif;
-    background-color: rgb(197, 20, 20);
+    background-color: #0e0d46;
 }
 .inicio {
     display: flex;
     height: 100vh;
+}
+.foto {
+    flex: 1;
+    background-color:rgb(156, 21, 21);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.foto img {
+    width:300px;
+    height: auto;
+    border-radius: 8px;
+}
+.infos {
+    flex: 2;
+    padding:60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.infos h1 {
+    font-size: 48px;
+    margin: 0;
+}
+.infos h2 {
+    font-size: 24px;
+    color:black;
+    margin-top: 10px;
+}
+.infos p {
+    font-size: 18px;
+    margin: 10px 0;
 }
